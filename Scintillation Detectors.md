@@ -1,6 +1,6 @@
 [[Gamma]] energy is converted into light energy which in turn is converted into electric signal and detected.
 
-![[Pasted image 20250421233702.png]]
+![[Pasted image 20250421233702.png|400]]
 
 # Scintillation crystals
 
@@ -10,7 +10,7 @@ when these electrons come to rest state they release light photons(40 photons/ke
 Thicker crystals absorb have high sensitivity as they absorb more photons.
 
 # Energy spectrum of a crystal
-![[Pasted image 20250421233749.png]]
+![[Pasted image 20250421233749.png|300]]
 ## Photopeak
  The energy at which the radioactive substance gives maximum counts.
 Example - [[technetium 99]] at 140 kev.
@@ -22,7 +22,7 @@ The energy of the scattered photon is not detected.
 energy of the compton electron is seen at the left of photopeak referred to as compton peak.
 
 formula-
-![[Pasted image 20250421233822.png]]
+![[Pasted image 20250421233822.png|450]]
 
 
 ## Iodine escape peak
@@ -39,7 +39,7 @@ When two photons(of same or different energies and resultant photopeaks) strike 
 ## Backscatter peak
 
 Some undetected electrons bounce back 180 deg from the [[lead]] shield and get detected. a/w >200kev energies.
-![[Pasted image 20250421235624.png]]
+![[Pasted image 20250421235624.png|320]]
 
 ## Characteristic Lead XRay peak
 
