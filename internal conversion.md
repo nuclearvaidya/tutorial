@@ -2,4 +2,7 @@ When instead of Gamma Radiation the energy is transferred to an orbital electron
 
 It is most common for [[metastable states]].
 
-Energy of the conversion electron= 
+Energy should be sufficient to release the electron from its binding energy excess energy is given as kinetic energy.
+
+This is different from [[β- decay]] , as the electron is released from the Orbital shells and not from the nucleus as in case of β- decay. Beta minus decay ś
+
