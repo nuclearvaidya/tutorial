@@ -5,6 +5,6 @@ the mass number throughout this reaction remains same, But the atomic number is 
 The daughter nuclear are mostly unstable or metastable which lead to formation of [[Gamma ray]] or conversion electron through [[internal conversion]]
 
 ![[Pasted image 20250508234745.png|150]]
-Examples of electron capture Are I-125, 57-Co, 67-Ga, 111-In, 123-I,
+Examples of electron capture Are I-125,123-I, 57-Co, 67-Ga, 111-In,
 and 201-Tl.
 F-18 undergoes 3% EC. 
