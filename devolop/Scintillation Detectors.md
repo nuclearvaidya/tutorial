@@ -1,4 +1,4 @@
-[[Gamma ray]] energy is converted into light energy which in turn is converted into electric signal and detected.
+[[gamma ray]] energy is converted into light energy which in turn is converted into electric signal and detected.
 
 ![[Pasted image 20250421233702.png|400]]
 
