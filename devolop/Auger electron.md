@@ -11,6 +11,6 @@ The penetration power of auger Electron is very limited. It can be considered as
 
 ![[Pasted image 20250508231149.png|350]]
 
-see [[binding energy]]
+see [[Nuclear binding energy]]
 
 vs see [[internal conversion]]

@@ -1,6 +1,6 @@
 Book name:   Sorenson                               Page no:10-13,23,24,63,74
 
-when electrons from an outer shell, Drops into the inner cell. The difference between the [[binding energy]] of the two cells will release a characteristic X ray.
+when electrons from an outer shell, Drops into the inner cell. The difference between the [[Nuclear binding energy]] of the two cells will release a characteristic X ray.
 It is characteristic for each element.
 Heavy metals are most likely to release characteristic x rays.
 The probability that the metal will release characteristic X rays called as fluorescent yield.
