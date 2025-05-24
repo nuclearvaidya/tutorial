@@ -8,6 +8,7 @@ Most commonly used crystals is NaI. It has to be activated by Thallium.
 
 The crystal absorbs gamma ray and electrons get excited and lead to [[Compton effect]] and [[Photoelectric effect]] scattering their energy creating more excited electrons. These electrons are also called as secondary electrons.
 when these electrons come to rest state they release light photons(40 photons/kev) over a relatively higher span of time.
+Light photons are converted into electrons by photoemissive substance at the anode.
 Thallium activates the crystal and increases the wavelength of emitted photon by trapping it in between the conduction band and valence band.
 Thicker crystals absorb have high sensitivity as they absorb more photons.
 
