@@ -2,16 +2,31 @@
 
 ![[Pasted image 20250421233702.png|400]]
 
-# Scintillation crystals
+# Principle
 
 Most commonly used crystals is NaI. It has to be activated by Thallium.
 
 The crystal absorbs gamma ray and electrons get excited and lead to [[Compton effect]] and [[Photoelectric effect]] scattering their energy creating more excited electrons. These electrons are also called as secondary electrons.
 when these electrons come to rest state they release light photons(40 photons/kev) over a relatively higher span of time.
-Light photons are converted into electrons by photoemissive substance at the anode.
+Light photons are converted into electrons by photoemissive substance at the photocathode. Generally bialkali substances are used. Eg:-CsSb
+
 Thallium activates the crystal and increases the wavelength of emitted photon by trapping it in between the conduction band and valence band.
 Thicker crystals absorb have high sensitivity as they absorb more photons.
 
+# Types of crystals
+Inorganic 
+- NaI(Tl)
+- ZnS
+- LiI- neutron
+- LaBr3
+- CeBr
+- CsI- protons and α
+
+
+Organic
+- Anthracene
+- Stilbene
+- polystyrene
 # Energy spectrum of a crystal
 ![[Pasted image 20250421233749.png|300]]
 ## Photopeak
