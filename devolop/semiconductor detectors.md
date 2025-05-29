@@ -29,4 +29,3 @@ Silicon photomultipliers (SiPM)
 
 The silicon photomultipliers have the advantage 
 of not being affected by magnetic fields.
-/comm
