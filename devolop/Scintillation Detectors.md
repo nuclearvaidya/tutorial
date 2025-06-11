@@ -13,17 +13,20 @@ Light photons are converted into electrons by photoemissive substance at the pho
 Thallium activates the crystal and increases the wavelength of emitted photon by trapping it in between the conduction band and valence band.
 Thicker crystals absorb have high sensitivity as they absorb more photons.
 
-# Types of crystals
-Inorganic 
+# Types of Scintillation crystals
+[[Inorganic Scintillation crystals]] 
 - NaI(Tl)
 - ZnS
 - LiI- neutron
 - LaBr3
 - CeBr
 - CsI- protons and α
+- BGO 
+- LSO 
+- LYSO
 
 
-Organic
+[[Organic Scintillation crystals]]
 - Anthracene
 - Stilbene
 - polystyrene
