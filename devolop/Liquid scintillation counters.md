@@ -1,12 +1,19 @@
+ A sample vial with liquid scintillator and 
+the radioactive sample two PM tubes connected in 
+coincidence. Each PM tube receives the light photons  with the scintillator and converts them into a pulse, 
+which is further amplified by an amplifier. The amplitude of the pulses is propor￾tional to the energy of the β−-particles. The amplified pulses are then delivered 
+to the coincidence circuit that contains a PHA to analyze the pulse height for ac￾ceptance. A count is registered in the scaler if two pulses of the same height are 
+recorded in both PM tubes simultaneously
 ## LS solutions consist of four components:
 
 ### Organic Solvent
 - The solvent must dissolve not only the scintillator material but also the radioactive sample added to it.
-E.g - DIN and PXE (newer agents) 
+E.g - DIN and PXE(phenyl-xylyl-ethane) (newer agents) 
+     Toluene - environmentally not suitable.
 
 ### Primary solute
 absorbs energy from the solvent and emits light.
-Eg- bis MS benzene, PPO
+Eg- bis MS benzene, PPO, BBOT
 
 ### Secondary Solute(Waveshifter)
 
@@ -23,6 +30,7 @@ Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of ad
 #### USES
  1. Particle detection
  2. sensitive assay of blood and urine.
+ 3.  The β− emitters, 3H, 14C, 32P, and 35S detected.
 
 #### Drawbacks
 1. Inefficient for penetrating radiation ( because made of low z material)
