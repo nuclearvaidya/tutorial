@@ -59,7 +59,7 @@ When two photons(of same or different energies and resultant photopeaks) strike 
 
 ## Backscatter peak
 
-Some undetected electrons bounce back 180 deg from the [[lead]] shield and get detected. a/w >200kev energies.
+Some undetected electrons bounce back 180 deg from the [[lead!]] shield and get detected. a/w >200kev energies.
 ![[Pasted image 20250421235624.png|320]]
 
 ## Characteristic Lead XRay peak
@@ -78,7 +78,7 @@ The current from the photo multiplier tube is further amplified for facilitating
 
 # Pulse height analyzer
 
-It measures the amplitude of the electrical signal. it is used to select pulses that correspond to particular energy window.
+It measures the amplitude of the electrical signal. It is used to select Z-pulses that correspond to particular energy window.
 
 the shape of the pulse height analysis depends upon the crystal.
 
@@ -86,7 +86,7 @@ the shape of the pulse height analysis depends upon the crystal.
 
 # Examples of scintillation detector
 
-1. [[Thyroid probe]]
-2. [[Well counter]]
+1. Thyroid probe
+2. Well counter
 3. [[Liquid scintillation counters]] - for low energy beta particle and Alpha particles as they cannot travel considerable distance.
 4. [[Dosimetry]] monitors.
