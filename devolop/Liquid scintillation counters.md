@@ -7,7 +7,7 @@ E.g - DIN and PXE (newer agents)
 ### Primary solute
 absorbs energy from the solvent and emits light.
 Eg- bis MS benzene, PPO
-/comm
+
 ### Secondary Solute(Waveshifter)
 
 It is used to absorb emissions of the primary solute and reemit photons of longer wavelength, which are better matched to the PM tub.
