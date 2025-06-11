@@ -2,8 +2,8 @@
 
 ### Organic Solvent
 - The solvent must dissolve not only the scintillator material but also the radioactive sample added to it.
-E.g - DIN and PXE (newer agents) /comm
-
+E.g - DIN and PXE (newer agents) 
+/comm
 ### Primary solute
 absorbs energy from the solvent and emits light.
 Eg- bis MS benzene, PPO
