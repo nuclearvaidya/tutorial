@@ -7,6 +7,8 @@ coincidence. Each PM tube receives the light photons   converts them into a puls
 
 ### Organic Solvent
 - The solvent must dissolve not only the scintillator material but also the radioactive sample added to it.
+- accepts the incoming radiation.
+
 E.g - DIN and PXE(phenyl-xylyl-ethane) (newer agents) 
      Toluene - environmentally not suitable.
 
