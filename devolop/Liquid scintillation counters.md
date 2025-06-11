@@ -44,14 +44,12 @@ Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of ad
 refers to any mechanism that reduces the amount of light output from the sample.
 
 There are  three types of quenching:
-1. Chemical quenching is caused by sub￾stances that compete with the primary
-fluor for absorption of energy from the
-solvent but that are themselves not scintillators. E.g. Dissolved oxygen 
 
-2. Color quenching is caused by substances
-that absorb the emissions of the primary
-or secondary solute. Blood, Fogged
-or dirty containers
+1. Chemical quenching is caused by sub￾stances that compete with the primary
+fluor for absorption of energy from the solvent but that are themselves not scintillators.
+E.g. Dissolved oxygen 
+
+2. Color quenching is caused by substances that absorb the emissions of the primary or secondary solute. E.g. Blood, Fogged or dirty containers
 
 3. Dilution quenching occurs when a relatively large volume of sample is added to the scintillator solution. The effect is reducing the scintillator output efficiency.
 
