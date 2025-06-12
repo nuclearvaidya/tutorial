@@ -51,6 +51,7 @@ Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of ad
 
 ##### Quenching
 refers to any mechanism that reduces the amount of light output from the sample.
+The principal effect of quenching is to cause an apparent shift of the energy spectrum to lower energies.
 
 There are  three types of quenching:
 
@@ -62,7 +63,11 @@ E.g. Dissolved oxygen
 
 3. Dilution quenching occurs when a relatively large volume of sample is added to the scintillator solution. The effect is reducing the scintillator output efficiency.
 
-
+### Quench correction
 It can be minimized by following:
 1. Dissolved oxygen may be purged by ultrasound
 2. Hydrogen peroxide for color bleaching
+
+There are various methods for doing quench correction
+- internal standardization method, the sample counting rate is determined; then a known quantity of the radionuclide of interest (from a calibrated standard solution) is added to the sample and it is recounted
+- Channel ratio method
