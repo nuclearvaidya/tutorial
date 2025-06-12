@@ -5,7 +5,7 @@ coincidence. Each PM tube receives the light photons   converts them into a puls
 
 ### Container
 Made of polyethylene or low-potassium content glass used to avoid the natural background of 40K.
-Polyethylene vials are preferred overall and with dioxane solvents /comm
+Polyethylene vials are preferred overall and with dioxane solvents 
 Are stored temporarily in a darkened con￾tainer before counting(to reduce phosphorecence) 
 
 ## LS solutions consist of four components:
