@@ -34,6 +34,17 @@ Helps to refine the characteristics of the cocktail.
 
 Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of added samples such as blood.
 
+#### Sample Preparation
+There are two types of cocktail:-
+Emulsifying cocktails,
+(aqueous cocktails), consist of an
+organic aromatic solvent, an emulsifier and
+the scintillator.
+x
+or lipophilic cocktails, consist
+of an organic aromatic solvent and the
+scintillator
+
 #### Uses
  1. Particle detection
  2. sensitive assay of blood and urine.
@@ -70,4 +81,5 @@ It can be minimized by following:
 
 There are various methods for doing quench correction
 - internal standardization method, the sample counting rate is determined; then a known quantity of the radionuclide of interest (from a calibrated standard solution) is added to the sample and it is recounted
-- Channel ratio method
+- Channel ratio method - All causes of quenching are corrected by the channel ratio method.
+- Automatic external standardization - combines both internal and channel ratio method. Sensitive test with low statistical error but only corrects chemical and color quenching.
