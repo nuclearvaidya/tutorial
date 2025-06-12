@@ -34,17 +34,20 @@ Helps to refine the characteristics of the cocktail.
 
 Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of added samples such as blood.
 
+Emulsifiers- Form microemulsion of radionuclides in lipophilic cocktails.
+E.g alkyl aryl sulfonates , phosphate esters
+
 #### Sample Preparation
 There are two types of cocktail:-
 Emulsifying cocktails,
 (aqueous cocktails), consist of an
 organic aromatic solvent, an emulsifier and
 the scintillator.
-x
-or lipophilic cocktails, consist
-of an organic aromatic solvent and the
+Organic solvent (lipophilic cocktails), consist of an organic aromatic solvent and the
 scintillator
-
+Most radionuclides are present in aqueous
+form and therefore are not readily miscible
+with aromatic solvents
 #### Uses
  1. Particle detection
  2. sensitive assay of blood and urine.
