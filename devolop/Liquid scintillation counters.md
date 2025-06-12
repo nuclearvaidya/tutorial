@@ -32,15 +32,16 @@ Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of ad
 #### Uses
  1. Particle detection
  2. sensitive assay of blood and urine.
- 3.  The β− emitters, <sup>3</sup>H, <sup>14</sup>C, <sup>32</sup>P,<sup>35</sup>S, 45Ca, 40K detected.
- 4. very low energy 
+ 3. The β− emitters, <sup>3</sup>H, <sup>14</sup>C, <sup>32</sup>P,<sup>35</sup>S, 45Ca, 40K detected.
+ 4. very low energy γ rays.
 
 #### Drawbacks
 1. Inefficient for penetrating radiation ( because made of low z material)
 2. Lower light output
 3. Impaired light coupling with PMT
 4. Sample preparation
-5. Quenching
+5. scintillation solution exposed to external light produces phosphorescence(persists for hours)
+6. Quenching
 
 ##### Quenching
 refers to any mechanism that reduces the amount of light output from the sample.
