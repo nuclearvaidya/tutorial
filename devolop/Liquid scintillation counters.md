@@ -28,10 +28,10 @@ Helps to refine the characteristics of the cocktail.
 
 Solubilizers (e.g. hyamine hydroxide) are added to improve the dissolution of added samples such as blood.
 
-#### USES
+#### Uses
  1. Particle detection
  2. sensitive assay of blood and urine.
- 3.  The β− emitters, 3H, 14C, 32P, and 35S detected.
+ 3.  The β− emitters, <sup>3</sup>H, <sup>14</sup>C, <sup>32</sup>P, and <sup>35</sup>S detected.
 
 #### Drawbacks
 1. Inefficient for penetrating radiation ( because made of low z material)
@@ -45,7 +45,7 @@ refers to any mechanism that reduces the amount of light output from the sample.
 
 There are  three types of quenching:
 
-1. Chemical quenching is caused by sub￾stances that compete with the primary
+1. Chemical quenching is caused by substances that compete with the primary
 fluor for absorption of energy from the solvent but that are themselves not scintillators.
 E.g. Dissolved oxygen 
 
