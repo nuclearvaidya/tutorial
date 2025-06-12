@@ -18,7 +18,7 @@ Eg- bis MS benzene, PPO, BBOT
 
 ### Secondary Solute(Waveshifter)
 
-It is used to absorb emissions of the primary solute and reemit photons of longer wavelength, which are better matched to the PM tub.
+It is used to absorb emissions of the primary solute and reemit photons of longer wavelength, which are better matched to the PM tube.
 
 Eg. POPOP
 
