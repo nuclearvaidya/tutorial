@@ -1,7 +1,11 @@
  A sample vial with liquid scintillator and 
 the radioactive sample two PM tubes kept in darkened chambers connected in 
-coincidence. Each PM tube receives the light photons   converts them into a pulse, which is further amplified by an preamplifier.  The amplified pulses are then delivered to the coincidence circuit that contains a Pulse height analyzer for acceptance. A count is registered in the scaler if two pulses of the same height are recorded in both PM tubes simultaneously (within 0.03 micro seconds ). this is then sent to a summation circuit
+coincidence. Each PM tube receives the light photons   converts them into a pulse, which is further amplified by an preamplifier.  The amplified pulses are then delivered to the coincidence circuit. A count is registered in the scaler if two pulses of the same height are recorded in both PM tubes simultaneously (within 0.03 micro seconds ). this is then sent to a summation circuit which adds the two signals, sent to a amplifier finally sent to MCA
 ![[Pasted image 20250611184545.png|350]]
+
+### Container
+made of polyethylene or low-potassium content glass used to avoid the natural background of 40K.
+
 
 ## LS solutions consist of four components:
 
