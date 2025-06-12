@@ -5,7 +5,7 @@ coincidence. Each PM tube receives the light photons   converts them into a puls
 
 ### Container
 Made of polyethylene or low-potassium content glass used to avoid the natural background of 40K.
-Polyethylene vials are preferred overall and with dioxane solvents
+Polyethylene vials are preferred overall and with dioxane solvents /comm
 Are stored temporarily in a darkened con￾tainer before counting(to reduce phosphorecence) 
 
 ## LS solutions consist of four components:
@@ -48,20 +48,19 @@ scintillator
 Most radionuclides are present in aqueous
 form and therefore are not readily miscible
 with aromatic solvents
-#### Uses
+## Uses
  1. Particle detection
  2. sensitive assay of blood and urine.
  3. The β− emitters, <sup>3</sup>H, <sup>14</sup>C, <sup>32</sup>P,<sup>35</sup>S, 45Ca, 40K detected.
  4. very low energy γ rays.
 
-#### Drawbacks
+## Drawbacks
 1. Inefficient for penetrating radiation ( because made of low z material)
 2. Lower light output
-3. 
-4. Impaired light coupling with PMT
-5. Sample preparation
-6. scintillation solution exposed to external light produces phosphorescence(persists for hours)
-7. Quenching
+3. Impaired light coupling with PMT
+4. Sample preparation
+5. scintillation solution exposed to external light produces phosphorescence(persists for hours)
+6. Quenching
 
 ##### Quenching
 refers to any mechanism that reduces the amount of light output from the sample.
@@ -69,8 +68,7 @@ The principal effect of quenching is to cause an apparent shift of the energy sp
 
 There are  three types of quenching:
 
-1. Chemical quenching is caused by substances that compete with the primary
-fluor for absorption of energy from the solvent but that are themselves not scintillators.
+1. Chemical quenching is caused by substances that compete with the primary fluor for absorption of energy from the solvent but that are themselves not scintillators. 
 E.g. Dissolved oxygen 
 
 2. Color quenching is caused by substances that absorb the emissions of the primary or secondary solute. E.g. Blood, Fogged or dirty containers
@@ -83,6 +81,8 @@ It can be minimized by following:
 2. Hydrogen peroxide for color bleaching
 
 There are various methods for doing quench correction
-- internal standardization method, the sample counting rate is determined; then a known quantity of the radionuclide of interest (from a calibrated standard solution) is added to the sample and it is recounted
+- Internal standardization method- The sample counting rate is determined; then a known quantity of the radionuclide of interest (from a calibrated standard solution) is added to the sample and it is recounted.
+
 - Channel ratio method - All causes of quenching are corrected by the channel ratio method.
+
 - Automatic external standardization - combines both internal and channel ratio method. Sensitive test with low statistical error but only corrects chemical and color quenching.
