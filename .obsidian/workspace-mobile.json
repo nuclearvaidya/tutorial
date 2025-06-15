@@ -11,14 +11,10 @@
             "id": "8b763f965d5509c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New things.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "New things"
+              "title": "New tab"
             }
           }
         ]
@@ -155,7 +151,7 @@
   },
   "active": "8b763f965d5509c0",
   "lastOpenFiles": [
-    "ReactNativeBlobUtilTmp_2rj8zxw8of85xa1pin039e.jpg",
-    "New things.md"
+    "New things.md",
+    "ReactNativeBlobUtilTmp_2rj8zxw8of85xa1pin039e.jpg"
   ]
 }
