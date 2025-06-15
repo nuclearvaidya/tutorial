@@ -8,4 +8,4 @@ The daughter nuclear are mostly unstable or metastable which lead to formation o
 Examples of electron capture Are I-125,123-I, 57-Co, 67-Ga, 111-In,
 and 201-Tl.
 F-18 undergoes 3% EC. 
-/co
+/comm
